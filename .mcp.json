@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "linkdr": {
+      "type": "http",
+      "url": "https://linkdr.com/mcp"
+    }
+  }
+}

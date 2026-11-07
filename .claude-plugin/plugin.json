@@ -1,0 +1,17 @@
+{
+  "name": "linkdr",
+  "displayName": "LinkDR",
+  "version": "1.0.0",
+  "description": "Domain rating & backlink research, SERP & keyword discovery, AI search visibility, publisher site approvals, and managed backlink ordering.",
+  "author": {
+    "name": "LinkDR",
+    "url": "https://linkdr.com"
+  },
+  "homepage": "https://linkdr.com/docs/mcp",
+  "repository": "https://github.com/Illyism/linkdr-mcp",
+  "keywords": ["seo", "backlinks", "link-building", "domain-rating", "serp", "mcp"],
+  "documentationUrl": "https://linkdr.com/docs/mcp",
+  "supportUrl": "https://linkdr.com/contact",
+  "privacyPolicyUrl": "https://linkdr.com/privacy",
+  "termsOfServiceUrl": "https://linkdr.com/terms"
+}

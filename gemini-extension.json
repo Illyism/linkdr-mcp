@@ -1,0 +1,10 @@
+{
+  "name": "linkdr",
+  "version": "1.0.0",
+  "description": "LinkDR MCP server: domain rating & backlink research, SERP & keyword discovery, AI search visibility, publisher site approvals, and managed backlink ordering.",
+  "mcpServers": {
+    "linkdr": {
+      "httpUrl": "https://linkdr.com/mcp"
+    }
+  }
+}

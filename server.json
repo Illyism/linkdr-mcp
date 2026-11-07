@@ -1,0 +1,25 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "com.linkdr/mcp",
+  "title": "LinkDR",
+  "description": "Backlink research, domain authority, SERP analysis, site approvals, and link building for agents.",
+  "version": "1.0.0",
+  "websiteUrl": "https://linkdr.com/docs/mcp",
+  "repository": {
+    "url": "https://github.com/Illyism/linkdr-mcp",
+    "source": "github"
+  },
+  "icons": [
+    {
+      "src": "https://linkdr.com/_static/logo.svg",
+      "mimeType": "image/svg+xml",
+      "sizes": ["any"]
+    }
+  ],
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://linkdr.com/mcp"
+    }
+  ]
+}

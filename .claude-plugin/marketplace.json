@@ -1,0 +1,17 @@
+{
+  "name": "linkdr-mcp",
+  "description": "The LinkDR MCP server and agent skill for backlink research, SERP analysis, AI search visibility, site approvals, and link building.",
+  "owner": {
+    "name": "LinkDR",
+    "url": "https://linkdr.com"
+  },
+  "plugins": [
+    {
+      "name": "linkdr",
+      "source": "./",
+      "description": "Domain rating & backlink research, SERP & keyword discovery, AI search visibility, publisher site approvals, and managed backlink ordering.",
+      "category": "productivity",
+      "tags": ["seo", "backlinks", "link-building", "mcp"]
+    }
+  ]
+}
